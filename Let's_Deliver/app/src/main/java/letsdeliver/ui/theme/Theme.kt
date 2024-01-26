@@ -1,4 +1,4 @@
-package com.example.letsdeliver.ui.theme
+package letsdeliver.ui.theme
 
 import android.app.Activity
 import android.os.Build
